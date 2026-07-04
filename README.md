@@ -1,98 +1,115 @@
 <h1 align="center">Hi 👋, I'm Avilamb Bhushan</h1>
-<h3 align="center">Computer Science Undergraduate | Cybersecurity Enthusiast | Full-Stack Developer</h3>
+
+<h3 align="center">
+Computer Science Undergraduate • Builder • Cybersecurity Enthusiast • Problem Solver
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;SOC+Analyst+Learner;Full+Stack+Developer;Problem+Solver;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Building+Things+That+Matter;Cybersecurity+%7C+Full+Stack+Development;Research+%26+Product+Thinking;Always+Learning+Something+New" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👋 About Me
 
-🎓 B.Tech Computer Science Engineering student at **VIT Bhopal University**
+I'm a Computer Science undergraduate at **VIT Bhopal University** passionate about solving real-world problems through technology.
 
-🛡️ Passionate about **Cybersecurity**, **Network Security**, and **Threat Detection**
+My interests span across:
 
-💻 I also enjoy building **Web Applications** and solving real-world problems through technology.
+- 🔒 Cybersecurity
+- 🌐 Full Stack Development
+- 📊 Data Analysis
+- 🚀 Product Thinking
+- 📈 Strategy & Research
 
-🌱 Currently learning
+I enjoy taking ownership of projects—from researching a problem to designing and building practical solutions.
+
+Currently exploring:
+
 - Security Operations (SOC)
-- Splunk
-- Web Security
+- Splunk & Threat Detection
 - Full Stack Development
+- Product & Business Strategy
 - Data Structures & Algorithms
-
-🎯 Goal: Build secure applications and contribute to impactful open-source projects.
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
-### Programming Languages
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 
----
+### Web
 
-### Web Development
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Tools & Technologies
 
----
-
-### Cybersecurity
-
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
-## 📂 Featured Projects
+# 💼 Experience
 
-### 🛡️ SIEM Log Monitoring Lab
-- Built a SOC lab using Splunk
-- Log collection and monitoring
-- Authentication log analysis
-- Alert creation and dashboards
+### Technical Intern — The Red Users
 
-### 🌐 Network Traffic Analysis System
-- Packet analysis using Wireshark
-- Threat detection
-- Network anomaly investigation
+- Researched and analyzed web application vulnerabilities
+- Worked with OWASP ZAP and Wireshark
+- Created structured remediation reports
+- Investigated network traffic and attack patterns
 
-### 📚 StudyShield Chrome Extension
-- Productivity extension
+---
+
+# 🚀 Featured Projects
+
+## 🛡️ Network Traffic Analysis System
+
+- Investigated suspicious network traffic
+- Identified anomalies using Wireshark
+- Built a structured investigation workflow
+
+---
+
+## 📚 StudyShield
+
+A Chrome Extension focused on productivity.
+
+**Features**
+
 - Website blocker
-- User-focused workflow
+- Focus mode
 - Study analytics
+- Clean user experience
 
 ---
 
-## 🏆 Achievements
+## 🌐 Portfolio Website
 
-🥇 **1st Prize - CyberSecure Challenge 2025**
-
-🌍 International Cybersecurity Competition organized by Saint Louis University & Execellerate.
-
-💰 Awarded a **$200 Scholarship**.
+Personal portfolio showcasing projects, skills, and achievements.
 
 ---
 
-## 📜 Certifications
+# 🏆 Achievements
 
-- Google Cybersecurity Professional Certificate
-- Google IT Support Professional Certificate
+🥇 **1st Prize – CyberSecure Challenge 2025**
+
+International Cybersecurity Competition organized by Saint Louis University & Execellerate.
+
+💰 Awarded a **$200 Scholarship**
 
 ---
 
-## 📊 GitHub Stats
+# 📈 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=avi4680&show_icons=true&theme=tokyonight)
 
@@ -102,18 +119,17 @@
 
 ---
 
-## 🌐 Connect With Me
+# 🤝 Let's Connect
 
-📧 Email: **avilambbhushan.krj@gmail.com**
+📧 **Email**
+**avilambbhushan.krj@gmail.com**
 
-💼 LinkedIn
+💼 **LinkedIn**
 https://linkedin.com/in/avilamb-bhushan
 
-💻 GitHub
+💻 **GitHub**
 https://github.com/avi4680
 
 ---
 
-> "Learning never exhausts the mind. Every project is another opportunity to grow."
-
-⭐ Thanks for visiting my profile!
+> *"I believe great products are built by people who enjoy learning, take ownership, and solve meaningful problems."*
